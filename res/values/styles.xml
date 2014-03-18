@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pathbar">
+		<attr name="dial" format="reference|color" />
+		<attr name="minutehand" format="reference|color" />
+		<attr name="secondhand" format="reference|color" />
+	</declare-styleable>
+</resources>

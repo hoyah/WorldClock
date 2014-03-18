@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">世界时钟</string>
+    <string name="app_name_add_activity">添加时区</string>
+    <string name="app_name_delete_activity">删除时区</string>
+    <string name="app_name_summertime_activity">夏令时设置</string>
+    
+    <!-- actions of WorldClockActivity -->
+    <string name="action_add">添加时钟</string>
+    <string name="action_delete">删除</string>
+    <string name="action_summertime">夏令时设置</string>
+    
+    <!-- menu of AddTimeZoneActivity -->
+    <string name="action_sort_alphabetically">按字母排序</string>
+    <string name="action_sort_by_timezone">按时区排序</string>
+    
+    <!-- dialog of summertime -->
+    <string name="worldclock_summertime_title">夏令时设置</string>
+	<string name="worldclock_summertime_off">关闭</string>
+	<string name="worldclock_summertime_one">1小时</string>
+	<string name="worldclock_summertime_two">2小时</string>
+    
+    <!-- dialog of delete -->
+    <string name="worldtime_select_all">选择全部</string>
+    <string name="delete_timezone">删除</string>
+    <string name="delete_timezone_msg">确定删除?</string>
+    
+	<!-- buttons -->
+	<string name="btn_ok">确定</string>
+	<string name="btn_cancel">取消</string>
+	<string name="btn_delete">删除</string>
+	
+	<string name="worldclock_already_added">已存在!</string>
+	<string name="worldclock_list_empty">暂无数据!</string>
+</resources>

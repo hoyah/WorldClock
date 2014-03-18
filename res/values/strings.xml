@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="app_name_add_activity">Add time zone</string>
+    <string name="app_name_delete_activity">Delete time zone</string>
+    <string name="app_name_summertime_activity">Summer time setting</string>
+    
+    <!-- actions of WorldClockActivity -->
+    <string name="action_add">Add clock</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_summertime">Summer time setting</string>
+    
+    <!-- menu of AddTimeZoneActivity -->
+    <string name="action_sort_alphabetically">Sort alphabetically</string>
+    <string name="action_sort_by_timezone">Sort by time zone</string>
+    
+    <!-- dialog of summertime -->
+    <string name="worldclock_summertime_title">Summer time</string>
+	<string name="worldclock_summertime_off">Off</string>
+	<string name="worldclock_summertime_one">1 hour</string>
+	<string name="worldclock_summertime_two">2 hours</string>
+    
+    <!-- dialog of delete -->
+    <string name="worldtime_select_all">Select all</string>
+    <string name="delete_timezone">Delete</string>
+    <string name="delete_timezone_msg">Are you sure to delete?</string>
+    
+	<!-- buttons -->
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">Cancel</string>
+	<string name="btn_delete">Delete</string>
+	
+	<string name="worldclock_already_added">Already added!</string>
+	<string name="worldclock_list_empty">Data empty!</string>
+</resources>
